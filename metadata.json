@@ -1,0 +1,7 @@
+{
+  "name": "VoxBoard Pro - Professional Audio Soundboard",
+  "description": "A powerful, Farrago-inspired soundboard application for live broadcasting, podcasting, and theater. Features multiple sound sets, precise playback controls, and professional audio metering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
